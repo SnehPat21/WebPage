@@ -2,14 +2,20 @@ table, th, td {
     border: 1px solid rgb(188, 15, 15);
     border-collapse: collapse;
   }
-
 body { 
     background: #c7c7c9; 
     color: #1f1f29; 
   }
 p {
     margin: 50px;
+
   }
 img {
     border: 5px solid #555;
+  }
+a {
+    color: rgb(246, 56, 56);
+  }
+p.content {
+    font-size: 20px;
   }
